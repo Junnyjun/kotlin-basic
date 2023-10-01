@@ -7,3 +7,12 @@ class Euclid {
         else -> a
     }
 }
+
+// convert java
+//
+//
+//
+//
+//
+//
+//
